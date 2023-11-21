@@ -15,7 +15,7 @@ p{
     margin-left: 10px;
     
 }
-#screen{
+#result{
     background-color: rgb(159, 188, 211);
     height: 80px;
     width: 440px;
@@ -33,7 +33,7 @@ p{
     margin: 10px;
     border-radius: 15px;
 }
-.clear{
+.calclear{
     background-color: red;
 }
 .operator{
